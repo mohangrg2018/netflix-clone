@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./Header";
 import Banner from "./Banner";
 import Row from "./Row";
-import requests from "./Requests";
+import requests from "../Requests";
 
 const Homescreen = () => {
   return (
