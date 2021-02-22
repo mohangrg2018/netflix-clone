@@ -19,7 +19,8 @@
 }
 
 .header__avatar>img{
-    width: 50px;
+    width: 40px;
     margin: 20px 40px;
+    
     cursor: pointer;
 }
